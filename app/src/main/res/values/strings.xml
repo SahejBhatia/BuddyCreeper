@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">BudyyCreeper</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_welcome">welcomeActivity</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="followersbuttons">See Your Followers</string>
+    <string name="searchbyusernamebutton">Search By @UserName</string>
+    <string name="discription">User Description</string>
+    <string name="title">User Name</string>
+    <string name="noTasks">You have no friends :( </string>
+</resources>
